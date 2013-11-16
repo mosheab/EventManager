@@ -1,0 +1,3 @@
+# Module rrr
+# RPC service class, partial path of RPC policy file
+rrr.client.GreetingService, E0EE76F7EB55638D679824A9B8CD1791.gwt.rpc
